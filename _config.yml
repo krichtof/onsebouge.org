@@ -9,7 +9,7 @@
 title: On se bouge
 email: collectif@onsebouge.org
 description: > # this means to ignore newlines until "baseurl:"
-  *On se bouge* est un collectif d'habitants résidant sur un territoire allant de Vichy à Thiers, en passant par Châteldon. Il se donne comme objectif d'impulser des initiatives qui favorisent les rencontres et les actions collectives. Il propose à qui le veut des compétences de facilitation pour favoriser l'expression, l'écoute, la réflexion et l'action collective.
+  *On se bouge* est un collectif d'habitants de Vichy à Thiers, en passant par Châteldon. Il se donne comme objectif d'impulser des initiatives qui favorisent les rencontres et les actions collectives. Il propose à qui le veut des compétences de facilitation pour favoriser l'expression, l'écoute, la réflexion et l'action collective.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://onsebouge.org" # the base hostname & protocol for your site
 
